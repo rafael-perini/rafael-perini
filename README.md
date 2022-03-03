@@ -17,4 +17,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=rafael-perini&theme=darkhub&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rafael-perini&icon=4&color=3)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=rafael-perini&icon=4&color=3)
